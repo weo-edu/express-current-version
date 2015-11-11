@@ -5,7 +5,9 @@
   "version": "0.1.2",
   "license": "MIT",
   "main": "lib/index.js",
-  "dependencies": {},
+  "dependencies": {
+    "current-version": "^0.1.4"
+  },
   "devDependencies": {
     "mocha": "2.x",
     "standard": "^4.0.0"
